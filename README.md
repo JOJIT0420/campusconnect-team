@@ -4,36 +4,32 @@ Mini Campus Event Hub is a web-based campus event management system developed fo
 
 ## Project Overview
 
-The system provides a centralized platform for managing campus activities such as seminars, workshops, sports events, academic activities, student organization activities, and other school events.
+Mini Campus Event Hub is a web-based campus event management system developed for Pateros Technological College. It provides a centralized platform where students can explore campus activities, view event details, and register for events online. It also helps administrators organize campus events, manage event information, and monitor student registrations.
 
-The project uses PHP and MySQL for the backend and Bootstrap, HTML, CSS, and JavaScript for the frontend.
+The system supports campus activities such as seminars, workshops, academic programs, sports events, and student organization activities. It uses PHP and MySQL for backend processing and database management, while HTML, CSS, Bootstrap, and JavaScript are used to build the user interface.
 
 ## Main Features
 
 ### Student Features
 
-- Create a student account
-- Log in and log out securely
-- View available campus events
-- Search and browse events
-- View complete event information
-- Register for an event
-- Prevent duplicate event registrations
-- View personal event registrations
-- View registration status
+- Create a student account and log in securely
+- Browse and search available campus events
+- View event descriptions, schedules, venues, and capacity
+- Register for available events
+- Prevent duplicate registrations for the same event
+- View personal event registrations and their status
+- Check event availability and remaining slots
 
 ### Administrator Features
 
-- Secure administrator login
-- View event management dashboard
-- Create new events
-- Edit existing events
-- Archive events
-- Delete events
-- View registration counts
-- View registered students
-- Monitor event capacity
-- View remaining event slots
+- Log in securely as an administrator
+- Access the event management dashboard
+- Create and update campus event information
+- Archive or delete events
+- Monitor registration counts and event capacity
+- View lists of registered students
+- Check remaining slots for each event
+- Export attendee information to CSV
 
 ## Technologies Used
 
