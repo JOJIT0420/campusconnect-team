@@ -98,6 +98,18 @@ campus-event-hub/
 -**View Details** - Click any event card to see the full description, date, time, venue, and available slots.
 -**My Registration** - View all events you've signed up for. You can also cancel your registration here if needed.
 
+### For Administrators
+-**Admin Dashboard** - This is where you manage everything. Click "Add Event" to create new one.
+-**Edit or Delete Events** - Use the Edit button to update event details, or delete/cancel events when needed.
+-**View Registrations** - Click "View" on any event to see the list of students who registered. You'll see their names, emails, and how many slots are left.
+
+### Quick Tips
+- Use the search bar to find events by name or keyword
+- Check the available slots before registering
+- You can cancel your registration anytime before the event date
+- Administrators can approve or reject account requests
+- Bookmark the homepage for easy access to upcoming events
+
 # Team Members
 Alcantara, Aldrei Khen N. - Backend Developer/DevOps
 Clapis, Jayjay - Frontend Developer/Database Administrator
