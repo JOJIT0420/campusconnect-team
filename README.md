@@ -89,3 +89,9 @@ campus-event-hub/
 ├── register-event.php
 ├── my-registrations.php
 └── README.md
+
+# Team Members
+Alcantara, Aldrei Khen N. - Backend Developer/DevOps
+Clapis, Jayjay - Frontend Developer/Database Administrator
+Masagca, Jazmine A. - Documentation 
+Masagca, Nicole A. - Quality Assurance
