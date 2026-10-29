@@ -86,8 +86,21 @@ campus-event-hub/
 ├── my-registrations.php
 └── README.md
 
+## How to Use
+
+### Getting Started
+1. Create an account by clicking the Register button
+2. Fill in your details and choose your account type
+3. Log in using your email and password
+
+### For Students
+-**Browse Events** - See all upcoming events on the homepage. Use the search bar or category filter to find what you're looking for.
+-**View Details** - Click any event card to see the full description, date, time, venue, and available slots.
+-**My Registration** - View all events you've signed up for. You can also cancel your registration here if needed.
+
 # Team Members
 Alcantara, Aldrei Khen N. - Backend Developer/DevOps
 Clapis, Jayjay - Frontend Developer/Database Administrator
 Masagca, Jazmine A. - Documentation 
 Masagca, Nicole A. - Quality Assurance
+
